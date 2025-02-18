@@ -11,6 +11,8 @@
 - Poetry 1.2.0 (Manages dependencies and environment to streamline python project workflows)
 - VS Code 1.81 (IDE for efficient collaboration)
 
+---
+
 #### What is an AI agent?
 - An AI agent is a computational system designed to autonomously percieve its environment, make decisions and takes action to achieve specific goals.
 - It acts as a bridge between its internal capabilities such as reasoning, learning and problem solving in the external environment it interacts with by leveraging abilities, predefined goals and prior knowledge, an agent can gathers information, gathers data and execute task effectively.
