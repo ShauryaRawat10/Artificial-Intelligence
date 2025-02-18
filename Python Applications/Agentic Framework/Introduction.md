@@ -1,4 +1,4 @@
-## **Introduction to Agentic Frameworks and AI Agents**
+# **Introduction to Agentic Frameworks and AI Agents**
 
 
 #### Course Requirements:
